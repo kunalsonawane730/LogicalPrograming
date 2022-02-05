@@ -7,3 +7,6 @@ series.FindFibonacciSeries();
 
 ReverseNumber reverse = new ReverseNumber();
 reverse.FindReverseNumber();
+
+PerfectNumber perfect = new PerfectNumber();
+perfect.FindPerfectNumber();
