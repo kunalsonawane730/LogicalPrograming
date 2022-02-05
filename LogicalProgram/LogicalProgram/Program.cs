@@ -5,3 +5,5 @@ Console.WriteLine("Hello, World!");
 FibonacciSeries series = new FibonacciSeries();
 series.FindFibonacciSeries();
 
+ReverseNumber reverse = new ReverseNumber();
+reverse.FindReverseNumber();
