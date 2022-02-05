@@ -10,3 +10,6 @@ reverse.FindReverseNumber();
 
 PerfectNumber perfect = new PerfectNumber();
 perfect.FindPerfectNumber();
+
+PrimeNumber prime = new PrimeNumber();
+prime.FindPrimeNumber();
